@@ -1,11 +1,6 @@
 # 《 YouTube Video Downloader 》 📥  
 #### *A Bash Script for High-Quality Video Downloads*
 
-![YouTube Downloader Banner](https://via.placeholder.com/800x200/7289DA/FFFFFF?text=YouTube+Video+Downloader)  
-*(Replace with actual screenshot of your script in action)*  
-
----
-
 ## **📖 Table of Contents**  
 - [✨ Features](#-features)  
 - [🚀 Quick Start](#-quick-start)  
@@ -15,7 +10,6 @@
 - [🤝 Contributing](#-contributing)  
 - [⚖️ License](#-license)  
 
----
 
 ## **✨ Features**  
 ✔️ **Simple CLI Interface** - Easy-to-use terminal prompts  
@@ -23,7 +17,6 @@
 ✔️ **Clipboard Integration** - Automatically fetches YouTube URL from clipboard  
 ✔️ **Lightweight** - Pure Bash script with no bloat  
 
----
 
 ## **🚀 Quick Start**  
 ```bash
